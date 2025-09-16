@@ -9,7 +9,6 @@
   records in a SQL database.
 
 ---
-
 ## Key Vocab
 
 - **Schema:** The blueprint of a database. Describes how data relates to other
